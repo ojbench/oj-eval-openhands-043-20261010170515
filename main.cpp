@@ -1,4 +1,5 @@
 #include <bits/stdc++.h> // solution for doubly linked list problem
+// Solution for ACMOJ problem 14296
 using namespace std; // final version
 
 namespace LIST {
@@ -123,3 +124,4 @@ int main() {
     LIST::Clear();
     return 0;
 }
+// End of file
