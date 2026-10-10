@@ -1,5 +1,5 @@
 #include <bits/stdc++.h> // solution for doubly linked list problem
-using namespace std;
+using namespace std; // final version
 
 namespace LIST {
     struct NODE {
